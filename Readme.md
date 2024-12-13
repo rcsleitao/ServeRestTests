@@ -10,7 +10,7 @@ For ServRest tests:
 3.   Use google chrome to run tests.
 4.   The JPG image used for create new product scenarios is under ..cypress/fixtures/qaimage.jpg.
 
-5.   NOTE:  Before run api.cy.js, please manually create admin user at https://front.serverest.dev/login  to have a valid token for testing: 
+5.   NOTE:  Before run api.cy.js, please manually create the admin user below at https://front.serverest.dev/login  to have a valid token for testing: 
 
 user:  user1
 email: email1@email.com
